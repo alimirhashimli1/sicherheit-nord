@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sicherhet-nord/static/css/main.9ab101cf.css",
-    "main.js": "/sicherhet-nord/static/js/main.9647b74d.js",
+    "main.js": "/sicherhet-nord/static/js/main.1e25cfe9.js",
     "static/media/Hero_Startbild.jpg": "/sicherhet-nord/static/media/Hero_Startbild.32084c6a1029adb36a88.jpg",
     "static/media/SN_Logo.png": "/sicherhet-nord/static/media/SN_Logo.e241cfe3755335d23305.png",
     "static/media/SN_Logo_weiss.png": "/sicherhet-nord/static/media/SN_Logo_weiss.e173fe0608b78fabb855.png",
@@ -12,10 +12,10 @@
     "static/media/LGBT-flag.svg": "/sicherhet-nord/static/media/LGBT-flag.ed7f044e926509c62c33a7ec7be04e94.svg",
     "index.html": "/sicherhet-nord/index.html",
     "main.9ab101cf.css.map": "/sicherhet-nord/static/css/main.9ab101cf.css.map",
-    "main.9647b74d.js.map": "/sicherhet-nord/static/js/main.9647b74d.js.map"
+    "main.1e25cfe9.js.map": "/sicherhet-nord/static/js/main.1e25cfe9.js.map"
   },
   "entrypoints": [
     "static/css/main.9ab101cf.css",
-    "static/js/main.9647b74d.js"
+    "static/js/main.1e25cfe9.js"
   ]
 }
