@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alimirhashimli1.github.io/sicherhet-nord",
+  "homepage": "http://alimirhashimli1.github.io/sicherheit-nord",
   "name": "sicherheit-nord",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +24,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
